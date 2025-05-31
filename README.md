@@ -37,7 +37,7 @@ The encrypted_problem you need to solve is:
 ### 1. 実行
 
 ```bash
-python3 jailbreak_prompt.py
+python3 Fu_+_En1_+_En2_Strategy.py
 ```
 
 （※ ファイル名は任意）
